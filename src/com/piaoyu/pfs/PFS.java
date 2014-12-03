@@ -5,4 +5,8 @@ package com.piaoyu.pfs;
  * Created by piaoyu on 14-11-6.
  */
 public class PFS {
+
+    public static void main(String[] args) {
+
+    }
 }
